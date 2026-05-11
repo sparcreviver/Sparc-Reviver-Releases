@@ -25,6 +25,7 @@ Getting back into the game is simple.
 ## 💬 Join the Community
 Want to find players, report bugs, or get help setting up? Join the official Sparc Reviver Discord community!
 
+🌐 **[Visit the Official Sparc Reviver Website](https://sites.google.com/view/sparcreviveronline/home)**
 👉 **[Join the Discord Server Here](https://discord.gg/a9B9rusyP)**
 
 ## 🛠️ Troubleshooting & FAQ
